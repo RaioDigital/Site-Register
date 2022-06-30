@@ -1,0 +1,12 @@
+div {
+  text-align: center;
+}
+
+h2,h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logo {
+  width: 400px;
+  justify-content: center;
+}
